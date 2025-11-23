@@ -1,0 +1,36 @@
+img{
+    width: auto;
+    height: 250px;
+   
+}
+
+img1{
+    width:auto;
+   height: 250px;
+    
+}
+
+body{
+    background-color: blanchedalmond;
+}
+body {
+    font-size: 20px;  
+    line-height: 1.6;      
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 900px;       
+    margin: 0 auto;          
+    padding: 20px;           
+}
+
+h1, h2 {
+    margin-top: 30px;
+}
+
+img {
+    border-radius: 8px;
+}
+
+
